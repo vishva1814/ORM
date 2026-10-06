@@ -58,8 +58,7 @@ admin.site.register(customer_DB,customer_DBAdmin)
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
-
+![alt text](image-2.png)
 
 ## RESULT
 Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
